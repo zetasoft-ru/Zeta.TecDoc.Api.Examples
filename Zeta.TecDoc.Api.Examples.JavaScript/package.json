@@ -1,0 +1,12 @@
+{
+  "name": "zeta.tec-doc.api.examples.java-script",
+  "version": "0.0.0",
+  "description": "Zeta.TecDoc.Api.Examples.JavaScript",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
