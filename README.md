@@ -1,6 +1,6 @@
 # Zeta TecDoc API 
 
-Это официальный RESTful клиент к онлайн-каталогам [TecAlliance](https://www.tecalliance.net/ru/) TecDoc.
+Это официальный RESTful клиент к онлайн-каталогу [TecAlliance](https://www.tecalliance.net/ru/) TecDoc.
 
 ## Zeta.TecDoc.Api.Examples
 
